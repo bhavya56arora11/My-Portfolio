@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.0813b7dc.css",
-    "main.js": "/My-Portfolio/static/js/main.57cd1e8e.js",
-    "static/media/DaanKaren.png": "/My-Portfolio/static/media/DaanKaren.7aab43cadd36597b34f6.png",
-    "static/media/Portfolio.png": "/My-Portfolio/static/media/Portfolio.f2cacb6034532fbbe621.png",
-    "static/media/UMatter.png": "/My-Portfolio/static/media/UMatter.29e21b3aa2c9a32b3a97.png",
-    "static/media/image.jpg": "/My-Portfolio/static/media/image.59f433b6037d2fe120e0.jpg",
-    "static/media/Virtual World.png": "/My-Portfolio/static/media/Virtual World.37d2229e556893bb2ff8.png",
-    "static/media/Bhavya_Arora.pdf": "/My-Portfolio/static/media/Bhavya_Arora.d68629e66421c2477186.pdf",
-    "static/media/atom.png": "/My-Portfolio/static/media/atom.17e5cb984343d1346ebd.png",
-    "static/media/sql-server.png": "/My-Portfolio/static/media/sql-server.64b3eb63f995c0da35b3.png",
-    "static/media/node-js.png": "/My-Portfolio/static/media/node-js.e328955d6bbbf3ebc72b.png",
-    "static/media/c++.png": "/My-Portfolio/static/media/c++.24a8f93854ab092f17a7.png",
-    "static/media/Fake News.png": "/My-Portfolio/static/media/Fake News.909034fac39b88fd54eb.png",
-    "static/media/mongodb.png": "/My-Portfolio/static/media/mongodb.7a16fc61d457c9e340e2.png",
-    "static/media/java.png": "/My-Portfolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
-    "static/media/css-3.png": "/My-Portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
-    "static/media/js.png": "/My-Portfolio/static/media/js.3dfb665e058d08c99f28.png",
-    "index.html": "/My-Portfolio/index.html",
-    "main.0813b7dc.css.map": "/My-Portfolio/static/css/main.0813b7dc.css.map",
-    "main.57cd1e8e.js.map": "/My-Portfolio/static/js/main.57cd1e8e.js.map"
+    "main.css": "/Portfolio/static/css/main.0813b7dc.css",
+    "main.js": "/Portfolio/static/js/main.e5616044.js",
+    "static/media/DaanKaren.png": "/Portfolio/static/media/DaanKaren.7aab43cadd36597b34f6.png",
+    "static/media/Portfolio.png": "/Portfolio/static/media/Portfolio.f2cacb6034532fbbe621.png",
+    "static/media/UMatter.png": "/Portfolio/static/media/UMatter.29e21b3aa2c9a32b3a97.png",
+    "static/media/image.jpg": "/Portfolio/static/media/image.59f433b6037d2fe120e0.jpg",
+    "static/media/Virtual World.png": "/Portfolio/static/media/Virtual World.37d2229e556893bb2ff8.png",
+    "static/media/Bhavya_Arora.pdf": "/Portfolio/static/media/Bhavya_Arora.d68629e66421c2477186.pdf",
+    "static/media/atom.png": "/Portfolio/static/media/atom.17e5cb984343d1346ebd.png",
+    "static/media/sql-server.png": "/Portfolio/static/media/sql-server.64b3eb63f995c0da35b3.png",
+    "static/media/node-js.png": "/Portfolio/static/media/node-js.e328955d6bbbf3ebc72b.png",
+    "static/media/c++.png": "/Portfolio/static/media/c++.24a8f93854ab092f17a7.png",
+    "static/media/Fake News.png": "/Portfolio/static/media/Fake News.909034fac39b88fd54eb.png",
+    "static/media/mongodb.png": "/Portfolio/static/media/mongodb.7a16fc61d457c9e340e2.png",
+    "static/media/java.png": "/Portfolio/static/media/java.f5dd86c3ef6ef3f85acf.png",
+    "static/media/css-3.png": "/Portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/js.png": "/Portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/Portfolio/index.html",
+    "main.0813b7dc.css.map": "/Portfolio/static/css/main.0813b7dc.css.map",
+    "main.e5616044.js.map": "/Portfolio/static/js/main.e5616044.js.map"
   },
   "entrypoints": [
     "static/css/main.0813b7dc.css",
-    "static/js/main.57cd1e8e.js"
+    "static/js/main.e5616044.js"
   ]
 }
